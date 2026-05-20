@@ -13,7 +13,7 @@ import sys
 # =====================================================================
 # ⚠️ CONFIGURAZIONE GITHUB (Inserisci il tuo link RAW qui sotto) ⚠️
 # =====================================================================
-URL_GITHUB_RAW = "https://raw.githubusercontent.com/4ndre1423/jarvis-project/refs/heads/main/jarvis_vocale.py"
+URL_GITHUB_RAW = "https://raw.githubusercontent.com/4ndre1423/jarvis-project/main/jarvis_vocale.py"
 
 # Indirizzo IP del tuo i9 (Windows) e del cervello Ollama
 IP_I9 = "192.168.1.145"
