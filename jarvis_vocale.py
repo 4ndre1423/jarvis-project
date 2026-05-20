@@ -198,7 +198,7 @@ if __name__ == "__main__":
     controlla_e_aggiorna()
     
     inizializza_audio()
-    parla("Sistemi di sintesi vocale neurale attivati. Aggiornamento riuscito, Signore.")
+    parla("Salve, Signore.")
     print("\n💤 JARVIS è in standby. Pronuncia 'Jarvis' per attivarlo...")
     
     while True:
